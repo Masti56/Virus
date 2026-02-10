@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title<Virüs>/tittle>
+  <title>VİRÜS</title>
 </head>
 <body>
   <h1 style="color:green;"<VIRUS>/h1>
