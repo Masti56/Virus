@@ -1,5 +1,4 @@
 # Virus
-HAHAHAHA VİRÜSLENDİN
 <!DOCTYPE html>
 <html>
 <head>
